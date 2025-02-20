@@ -8,7 +8,7 @@ import * as React from "react";
 function getTitle(title){
   return title;
 }
-function App (){
+function App (){   
   return (
     <div>
       <h1>hello {getTitle("React")}</h1>
